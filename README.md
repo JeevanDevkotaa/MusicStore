@@ -1,0 +1,4 @@
+MusicStore
+==========
+
+First Independent Project
